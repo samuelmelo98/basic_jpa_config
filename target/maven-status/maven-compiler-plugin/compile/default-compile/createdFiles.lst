@@ -1,0 +1,10 @@
+model\Pessoa.class
+Main.class
+util\HibernateUtil.class
+InterfaceExemplo.class
+ClasseAbstrata.class
+Teste.class
+ExtendeClasseAbstrata.class
+ExecutaJavaScriptNoBean.class
+ClasseImplementaInterface.class
+control\PessoaBean.class
