@@ -1,4 +1,5 @@
 out
+.gitignore
 .idea
 teste.iml
 .classpath
