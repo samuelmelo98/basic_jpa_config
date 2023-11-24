@@ -6,3 +6,6 @@
 /overlays
 /lib
 /.gitignore.txt
+/.git
+.gitignore.txt
+.git
