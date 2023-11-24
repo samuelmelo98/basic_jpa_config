@@ -7,25 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8d24a02-834c-43ca-8901-f2d9032b06d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/target/classes/ClasseAbstrata.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ClasseImplementaInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ExecutaJavaScriptNoBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ExtendeClasseAbstrata.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/InterfaceExemplo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/Pessoa.hbm.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Teste.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/control/PessoaBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/model/Pessoa.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/util/DataUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/util/HibernateUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/teste-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/tes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -307,7 +289,7 @@
       <workItem from="1699061353994" duration="611000" />
       <workItem from="1699405425455" duration="11020000" />
       <workItem from="1700275304836" duration="5846000" />
-      <workItem from="1700307470158" duration="19075000" />
+      <workItem from="1700307470158" duration="19695000" />
     </task>
     <servers />
   </component>
