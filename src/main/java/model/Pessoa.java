@@ -19,15 +19,15 @@ public class Pessoa implements java.io.Serializable {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    private Long id;
+    private Long idPessoa;
     private String nome;
 
-    public Long getId() {
-        return id;
+    public Long getIdPessoa() {
+        return idPessoa;
     }
 
-    public void setId(Long id) {
-        this.id = id;
+    public void setIdPessoa(Long idPessoa) {
+        this.idPessoa = idPessoa;
     }
 
     public String getNome() {

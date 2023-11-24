@@ -9,7 +9,10 @@ import javax.persistence.Persistence;
 
 import org.hibernate.*;
 import org.hibernate.cfg.Configuration;
+import util.DataUtil;
 import util.HibernateUtil;
+
+import java.time.LocalDate;
 
 @Named("pp")
 public class PessoaBean implements java.io.Serializable {
@@ -17,9 +20,9 @@ public class PessoaBean implements java.io.Serializable {
     /**
      * Instancia objeto para criar a ponte da configuração do banco com hibernate (SessionFactory)
      */
-      SessionFactory sessionFactory = new Configuration().configure("META-INF/hibernate.cfg.xml").buildSessionFactory();
-//         SessionFactory sessionFactory = new Configuration().configure().buildSessionFactory();
-         Session session = sessionFactory.openSession();
+//      SessionFactory sessionFactory = new Configuration().configure("META-INF/hibernate.cfg.xml").buildSessionFactory();
+////         SessionFactory sessionFactory = new Configuration().configure().buildSessionFactory();
+//         Session session = sessionFactory.openSession();
     /**
      * Configura o  manualmente sem o xml
      */
@@ -115,16 +118,16 @@ public void salvar(){
 //        Session session = HibernateUtil.getSession(); //sessionFactory.openSession();
  //       EntityManager entityManager = HibernateUtil.getSessionEntityManager();
         pessoa.setNome("samuel Meloo");
-        pessoa.setId(null);
+        pessoa.setIdPessoa(null);
 
-        Transaction transaction = session.beginTransaction();
+//        Transaction transaction = session.beginTransaction();
 
 
 //        entityManager.getTransaction().begin();
   //      entityManager.persist(pessoa);
     //    entityManager.getTransaction().commit();
-      session.save(pessoa);
-      transaction.commit();
+//      session.save(pessoa);
+//      transaction.commit();
 
 
 //        entityManager.getTransaction().begin();
@@ -143,6 +146,17 @@ public void salvar(){
 
 
     }
+    public void testaDataUtil(){
+        try{
+
+            System.out.println(DataUtil.duracaoDatas(LocalDate.parse("2023-11-01"),LocalDate.parse("2023-12-01")));
+            DataUtil.getDataComDate(null);
+
+        }catch(RuntimeException e){
+
+        }
+    }
+
 
 
 
