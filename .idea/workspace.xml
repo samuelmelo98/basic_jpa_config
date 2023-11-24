@@ -7,73 +7,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8d24a02-834c-43ca-8901-f2d9032b06d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/DataUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ClasseAbstrata.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ClasseImplementaInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExecutaJavaScriptNoBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExtendeClasseAbstrata.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/InterfaceExemplo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/Pessoa.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Teste.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/control/PessoaBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/model/Pessoa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/DataUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/util/HibernateUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/teste-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/beans.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/classes/ClasseAbstrata.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/classes/ClasseImplementaInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/classes/ExecutaJavaScriptNoBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/classes/ExtendeClasseAbstrata.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/classes/InterfaceExemplo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/classes/META-INF/Pessoa.hbm.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/classes/META-INF/hibernate.cfg.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/classes/Teste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/classes/control/PessoaBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/classes/model/Pessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/classes/util/HibernateUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/faces-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/lib/FastInfoset-1.2.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/lib/antlr-2.7.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/lib/byte-buddy-1.10.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/lib/checker-qual-3.31.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/lib/classmate-1.5.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/lib/dom4j-2.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/lib/hibernate-commons-annotations-5.1.0.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/lib/hibernate-core-5.4.11.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/lib/hibernate-core-5.4.12.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/lib/hibernate-entitymanager-5.4.12.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/lib/istack-commons-runtime-3.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/lib/jandex-2.1.1.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/lib/javaee-api-8.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/lib/javassist-3.24.0-GA.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/lib/javax.activation-api-1.2.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/lib/javax.persistence-api-2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/lib/jaxb-api-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/lib/jaxb-runtime-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/lib/jsf-api-2.2.20.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/lib/postgresql-42.6.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/lib/stax-ex-1.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/lib/txw2-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/index.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/teste.war/salvapessoa.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/control/PessoaBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/control/PessoaBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/Pessoa.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/Pessoa.hbm.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ClasseAbstrata.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ClasseImplementaInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ExecutaJavaScriptNoBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ExtendeClasseAbstrata.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/InterfaceExemplo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Pessoa.hbm.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/hibernate.cfg.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Teste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/control/PessoaBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/model/Pessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/HibernateUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/teste-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/teste.iml" beforeDir="false" afterPath="$PROJECT_DIR$/teste.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/salvapessoa.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/web/salvapessoa.xhtml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -123,8 +77,11 @@
     <option name="delegateBuildToMaven" value="true" />
   </component>
   <component name="ProjectId" id="2WAKWD8jLJkfpQVYTHJJnN9tYPS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
@@ -350,7 +307,7 @@
       <workItem from="1699061353994" duration="611000" />
       <workItem from="1699405425455" duration="11020000" />
       <workItem from="1700275304836" duration="5846000" />
-      <workItem from="1700307470158" duration="18715000" />
+      <workItem from="1700307470158" duration="19075000" />
     </task>
     <servers />
   </component>
@@ -369,6 +326,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
