@@ -1,8 +1,12 @@
 /out
+/out/
+out
 .idea
 /teste.iml
 /.classpath
 target
+target/
+/target
 /overlays
 /lib
 /.gitignore.txt
