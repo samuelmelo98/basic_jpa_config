@@ -2,7 +2,7 @@
 .idea
 /teste.iml
 /.classpath
-/target
+target
 /overlays
 /lib
 /.gitignore.txt
